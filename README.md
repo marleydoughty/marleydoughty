@@ -8,8 +8,9 @@
 I'm always interested in learning more, but here's a glimpse of some of the things I've learned so far...
 
 - 📚 **Stack** | React | JavaScript | Node.js | SQL | Express | HTML5 | CSS3 
-- 🛠️ **Tools** | npm | PostgreSQL | Git | Github | Webpack | Babel | Slack | Figma 
-- 💻 **Currently studying** Hooks and hash mapping
+- 🛠️ **Tools** | npm | PostgreSQL | Git | Github | Webpack | Babel | Slack 
+- 🖋️ **Design principles** | Material-UI | Bootstrap | Figma
+- 💻 **Currently studying** Hooks and react-router-dom
 
 ## 💬 About Me
 
