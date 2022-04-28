@@ -25,7 +25,7 @@ Programming has taught me to be brave when approaching new concepts and treading
 ## 😻 My fur babies 😻
 
 - 🐶 Lucy 
-- 🐱 Ghoul
+- 🐱 Ghoul & Jinx
 - 🐠 Beau 
 
 ## 📫 Let's connect
