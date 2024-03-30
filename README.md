@@ -2,9 +2,6 @@
 
 ## 👋 Hi, I’m @marleydoughty
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marleydoughty&hide=stars,issues&theme=buefy&show_icons=true)
-
 I'm always interested in learning more, but here's a glimpse of some of the things I've learned so far...
 
 - 📚 **Stack** | React | JavaScript | Node.js | SQL | Express | HTML5 | CSS3 
