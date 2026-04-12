@@ -1,12 +1,14 @@
-<img width="741" alt="banner" src="https://user-images.githubusercontent.com/90815506/151240520-c8eae335-4347-4eb2-9863-21c8b0a7442c.png">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f922fc3-8500-4d18-8c4b-cadadb44086e" alt="Attachment" width="900" />
+</p>
 
 ## 👋 Hi, I’m @marleydoughty
 
 I'm always interested in learning more, but here's a glimpse of some of the things I've learned so far...
 
-- 📚 **Stack** | TypeScript | React | JavaScript | Node.js | SQL | GraphQL | Express | HTML5 | CSS3 
-- 🛠️ **Tools** | npm | PostgreSQL | Git | Github | Webpack | Babel | Slack 
-- 🖋️ **Design principles** | Material-UI | Bootstrap | Figma
+- 📚 **Stack** | TypeScript | React | JavaScript | Node.js | Express | SQL | PostgreSQL | GraphQL | REST APIs | HTML5 | CSS3
+- 🛠️ **Tools & Platforms** | Gatsby | Vite | Git | GitHub | npm | pgAdmin | Netlify | Render | Contentful | AWS | Cursor | Kiro | Slack | Teams
+- 🎨 **Design & UI** | Tailwind CSS | Material UI | Bootstrap | Figma | Adobe
 - 💻 **Currently studying** for my AWS Certified Cloud Practitioner Exam
 
 ## 💬 About Me
