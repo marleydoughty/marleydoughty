@@ -33,8 +33,8 @@ Programming has taught me to be brave when approaching new concepts and treading
 
 ## 📰 My Articles
 
-- [How working with kids with autism has helped me on my coding journey](https://www.linkedin.com/pulse/how-working-kids-autism-has-helped-me-my-coding-journey-doughty/)
-- [Why I Still Make Coffee the Slow Way](https://www.linkedin.com/pulse/why-i-still-make-coffee-slow-way-marley-doughty-3avfc/)
+- [How Working With Kids With Autism Has Helped Me On My Coding Journey](https://www.linkedin.com/pulse/how-working-kids-autism-has-helped-me-my-coding-journey-doughty/)
+- [Why I Still Make Coffee The Slow Way](https://www.linkedin.com/pulse/why-i-still-make-coffee-slow-way-marley-doughty-3avfc/)
 
 
 <!---
